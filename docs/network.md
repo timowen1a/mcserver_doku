@@ -18,5 +18,5 @@ Zweck:
 
 - 6020 TCP → SSH (NAS)
 - 6021 TCP → SSH (erster Server)
-- 25560-25599 TCP → Minecraft Server
+- 25560-25599 TCP → Minecraft Server (nur von VPS)
 - 25660-25699 TCP → rcon (nur intern erreichbar)
