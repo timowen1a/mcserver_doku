@@ -19,9 +19,14 @@ Dieses Projekt beschreibt die Infrastruktur eines Minecraft-Netzwerks mit Proxy-
 
 ### Architektur
 
-Spieler -> 
-[VPS - Velocity Proxy] -> 
-über WireGuard -> 
+Spieler
+   │
+   ▼
+[VPS - Velocity Proxy]
+   │
+über WireGuard
+   │
+   ▼
 [Heimserver]
    ├─ Lobby
    ├─ Farmwelten
