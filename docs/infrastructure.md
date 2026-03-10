@@ -20,6 +20,7 @@ OS: Ubuntu 24.04
 ## Backend
 
 Provider: Self  
+Typ: Own Built  
 
 CPU: Intel Core i5 13600KF  
 RAM: 64 GB  
