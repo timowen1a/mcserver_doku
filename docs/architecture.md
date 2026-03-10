@@ -2,13 +2,9 @@
 
 ## Netzwerkstruktur
 
-Spieler
-   │
-   ▼
-Velocity Proxy (VPS)
-   │
-über WireGuard
-   │
+Spieler -> 
+Velocity Proxy (VPS) -> 
+über WireGuard -> 
 Backend Server (Heimserver)
 
 ## Server Rollen
@@ -27,8 +23,8 @@ Backend Server (Heimserver)
 
 ## Datenbanken
 
-- MariaDB (zentrale Speicherung für):
-  - LuckPerms
-  - Auktionshaus
-  - Userdaten (Inventory, diverser fortschritt)
-  - zukünftige Plugins
+**MariaDB (zentrale Speicherung für):**
+- LuckPerms
+- Auktionshaus
+- Userdaten (Inventory, diverser fortschritt)
+- zukünftige Plugins
