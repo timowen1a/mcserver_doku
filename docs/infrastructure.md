@@ -21,9 +21,9 @@ OS: Ubuntu 24.04
 
 Provider: Self  
 
-CPU: Intel Core i5 13600KF
-RAM: 64 GB
-OS: Ubuntu 24.04
+CPU: Intel Core i5 13600KF  
+RAM: 64 GB  
+OS: Ubuntu 24.04  
 
 ### Dienste
 
