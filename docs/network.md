@@ -10,9 +10,10 @@ Zweck:
 ## Ports VPS
 
 - 22 TCP → SSH
-- 19132 UDP → Bedrock (Geyser) 
+- 19132 UDP → Bedrock
 - 25565 TCP → Minecraft Proxy  
 - 51820 UDP → WireGuard
+- 3306 ANY → MariaDB (nur intern erreichbar)
 
 ## Ports Backend
 
