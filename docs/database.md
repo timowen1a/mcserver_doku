@@ -4,11 +4,11 @@ Software: MariaDB
 
 Host: VPS
 
-Datenbanken
+## Datenbanken:
 
-luckperms
-jobs
+luckperms  
+jobs  
 
-Zweck
+## Zweck
 
 zentrale Speicherung von Spielerinformationen
