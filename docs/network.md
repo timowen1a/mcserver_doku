@@ -11,7 +11,7 @@ Zweck:
 
 | Dienst | Host | Port | Zugriff |
 |-|-|-:|-|
-| SSL | VPS | 22 | öffentlich |
+| SSH | VPS | 22 | öffentlich |
 | Bedrock | VPS | 19132 | öffentlich |
 | Velocity | VPS | 25565 | öffentlich |
 | MariaDB | VPS | 3306 | nur WireGuard |
