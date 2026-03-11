@@ -4,11 +4,16 @@ Software: MariaDB
 
 Host: VPS
 
-## Datenbanken:
+## Datenbanken zentral verwaltet:
 
-luckperms  
-jobs  
+- luckperms  
+- jobs  
+- economy
+- homes/warps
+- socials
 
-## Zweck
+## Daten(banken) pro Server verwaltet:
 
-zentrale Speicherung von Spielerinformationen
+- coreprotect
+- serverconfigs
+- weltdaten
