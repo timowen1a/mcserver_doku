@@ -16,6 +16,7 @@ Dieses Projekt beschreibt die Infrastruktur eines Minecraft-Netzwerks mit Proxy-
 - UFW Firewall
 - Fortigate Firewall
 - Fail2Ban
+- CoreProtect
 
 ### Architektur
 
