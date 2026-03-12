@@ -50,5 +50,5 @@ Erlaubte Ports Backend:
 | Port | Protokoll | Zweck |
 |-|-|-|
 | 6020-6030 (Je nach Gerät) | TCP | SSH |
-| 25500-25699 (nur von Heimnetz erreichbar) | TCP | RCON |
+| 25600-25699 (nur von Heimnetz erreichbar) | TCP | RCON |
 | 25500-25599 (nur von VPS erreichbar) | TCP | Minecraft Server |
