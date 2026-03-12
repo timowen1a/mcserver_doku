@@ -63,3 +63,6 @@ Servicename: farm.service
 - EssentialsXDiscordLink -> Discord mit Minecraft verknüpfen
 - EssentialsXSpawn -> Spawning verwalten
 - VaultUnlocked -> API für Rechte und Economy
+- Durabilityplus -> Haltbarkeit verwalten
+- Runway -> Minimassage überall verwenden
+- Simplescore -> Scorebord modifizieren
