@@ -10,13 +10,14 @@ Servicename: velocity.service
 
 ### Plugins
 
-- LuckPerms -> Rechte/Ränge
 - CarbonChat -> Chat
-- ViaVersion -> Aufwärtskompatibilität
-- ViaBackwards -> Abwärtskompatibilität
-- ViaRewind -> Abwärtskompatibilität+
 - Floodgate -> Bedrock Authentifizierung
 - Geyser -> Bedrock Übersetzer
+- LuckPerms -> Rechte/Ränge
+- SkinsRestorer -> Ingame Skin wechseln und Skin Bug fixes
+- ViaVersion -> Aufwärtskompatibilität
+  - ViaBackwards -> Abwärtskompatibilität
+  - ViaRewind -> Abwärtskompatibilität+
 
 ## Lobby
 
@@ -31,15 +32,15 @@ Servicename: lobby.service
 
 - AutoPluginLoader -> Automatisches Plugin Reload
 - AutoUpdatePlugin -> Automatische Plugin Updates
-- LuckPerms -> Rechte/Ränge
-- TAB -> Ränge in der TAB-Liste anzeigen
-- PlaceholderAPI -> Plugin übersetzer
 - Citizens -> NPCs
 - DecentHolograms -> Custom Hologramme machen
+- LuckPerms -> Rechte/Ränge
+- PlaceholderAPI -> Plugin übersetzer
+- TAB -> Ränge in der TAB-Liste anzeigen
 - VaultUnlocked -> API für Rechte und Economy
+- WG-Gui -> GUI für Worldguard
 - Worldedit -> Einfaches Bauen
 - Worldguard -> Zonenschutz
-- WG-Gui -> GUI für Worldguard
 
 ## Farmwelt
 
@@ -54,15 +55,22 @@ Servicename: farm.service
 
 - AutoPluginLoader -> Automatisches Plugin Reload
 - AutoUpdatePlugin -> Automatische Plugin Updates
-- LuckPerms -> Rechte/Ränge
-- TAB -> Ränge in der TAB-Liste anzeigen
-- PlaceholderAPI -> Plugin übersetzer
 - BetterRTP -> Random Teleports
-- EssentialsX -> Viele nützliche Features
-- EssentialsXDiscord -> Discord Integration
-- EssentialsXDiscordLink -> Discord mit Minecraft verknüpfen
-- EssentialsXSpawn -> Spawning verwalten
-- VaultUnlocked -> API für Rechte und Economy
+- BetterTeams -> Teamverwaltung
+- BetterTeamGUI -> Grafische Verwaltung von Teams
+- Chunky -> Chunks laden
+- DeluxeMenus -> GUIs selbst gestalten
+- DiscordSRV -> Discord Verbindung
 - Durabilityplus -> Haltbarkeit verwalten
+- EssentialsX -> Viele nützliche Features
+- EssentialsXSpawn -> Spawning verwalten
+- Graves -> Grabsteine
+- LuckPerms -> Rechte/Ränge
+- Orderium -> Items von Spielern anfordern mit Preisangebot
+- Packetevents -> API für Packetplugins
+- PlaceholderAPI -> Plugin übersetzer
 - Runway -> Minimassage überall verwenden
 - Simplescore -> Scorebord modifizieren
+- TAB -> Ränge in der TAB-Liste anzeigen
+- Typewriter -> Quests und NPC-Textboxen erstellen etc.
+- VaultUnlocked -> API für Rechte und Economy
