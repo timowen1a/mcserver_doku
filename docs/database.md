@@ -11,6 +11,8 @@ Host: VPS
 - economy
 - homes/warps
 - socials
+- skins
+- maintenance
 
 ## Daten(banken) pro Server verwaltet:
 
