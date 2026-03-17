@@ -43,6 +43,40 @@ Servicename: lobby.service
 - Worldedit -> Einfaches Bauen
 - Worldguard -> Zonenschutz
 
+## Citybuild 1
+
+Info: Der erste Server zum Grundstücke erwerben und bebauen.  
+Serverport: 25501  
+Rcon Port: 25601  
+Software: Purpur 1.21.11  
+Arbeitspeicher: 6 GB  
+Servicename: cb1.service  
+
+### Plugins 
+
+- AutoPluginLoader -> Automatisches Plugin Reload
+- BetterTeamGUI -> Grafische Verwaltung von Teams
+- BetterTeams -> Teamverwaltung
+- BetterTPA -> Plugin für Teleportationsverwaltung
+- ChestShop -> Shops mit Kisten erstellen
+- DeluxeMenus -> GUIs selbst gestalten
+- DiscordSRV -> Discord Verbindung
+- Durabilityplus -> Haltbarkeit verwalten
+- EssentialsX -> Viele nützliche Features
+- EssentialsXSpawn -> Spawning verwalten
+- Friends -> Freunde verwalten
+- LuckPerms -> Rechte/Ränge
+- MultiverseCore -> Verwaltung für Welten
+- Packetevents -> API für Packetplugins
+- PlaceholderAPI -> Plugin übersetzer
+- PlotSquared -> Citybuild-Layout gestalten und verwalten
+- Runway -> Minimassage überall verwenden
+- SimpleMsg -> Message Plugin
+- Simplescore -> Scorebord modifizieren
+- TAB -> Ränge in der TAB-Liste anzeigen
+- Typewriter -> Quests und NPC-Textboxen erstellen etc.
+- VaultUnlocked -> API für Rechte und Economy
+
 ## Farmwelt 1
 
 Info: Die erste Welt zum normalen Survival spielen und Ressourcen zu farmen.  
@@ -56,49 +90,22 @@ Servicename: farm.service
 
 - AutoPluginLoader -> Automatisches Plugin Reload
 - BetterRTP -> Random Teleports
-- BetterTeams -> Teamverwaltung
 - BetterTeamGUI -> Grafische Verwaltung von Teams
+- BetterTeams -> Teamverwaltung
+- BetterTPA -> Plugin für Teleportationsverwaltung
 - Chunky -> Chunks laden
 - DeluxeMenus -> GUIs selbst gestalten
 - DiscordSRV -> Discord Verbindung
 - Durabilityplus -> Haltbarkeit verwalten
 - EssentialsX -> Viele nützliche Features
 - EssentialsXSpawn -> Spawning verwalten
+- Friends -> Freunde verwalten
 - Graves -> Grabsteine
 - LuckPerms -> Rechte/Ränge
 - Packetevents -> API für Packetplugins
 - PlaceholderAPI -> Plugin übersetzer
 - Runway -> Minimassage überall verwenden
-- Simplescore -> Scorebord modifizieren
-- TAB -> Ränge in der TAB-Liste anzeigen
-- Typewriter -> Quests und NPC-Textboxen erstellen etc.
-- VaultUnlocked -> API für Rechte und Economy
-
-## Citybuild 1
-
-Info: Der erste Server zum Grundstücke erwerben und bebauen.  
-Serverport: 25501  
-Rcon Port: 25601  
-Software: Purpur 1.21.11  
-Arbeitspeicher: 6 GB  
-Servicename: cb1.service  
-
-### Plugins 
-
-- AutoPluginLoader -> Automatisches Plugin Reload
-- BetterTeams -> Teamverwaltung
-- BetterTeamGUI -> Grafische Verwaltung von Teams
-- ChestShop -> Shops mit Kisten erstellen
-- DeluxeMenus -> GUIs selbst gestalten
-- DiscordSRV -> Discord Verbindung
-- Durabilityplus -> Haltbarkeit verwalten
-- EssentialsX -> Viele nützliche Features
-- EssentialsXSpawn -> Spawning verwalten
-- LuckPerms -> Rechte/Ränge
-- Packetevents -> API für Packetplugins
-- PlaceholderAPI -> Plugin übersetzer
-- PlotSquared -> Citybuild-Layout gestalten und verwalten
-- Runway -> Minimassage überall verwenden
+- SimpleMsg -> Message Plugin
 - Simplescore -> Scorebord modifizieren
 - TAB -> Ränge in der TAB-Liste anzeigen
 - Typewriter -> Quests und NPC-Textboxen erstellen etc.
@@ -115,4 +122,63 @@ Servicename: nether.service
 
 ### Plugins
 
-- 
+- AutoPluginLoader -> Automatisches Plugin Reload
+- BetterTeamGUI -> Grafische Verwaltung von Teams
+- BetterTeams -> Teamverwaltung
+- BetterTPA -> Plugin für Teleportationsverwaltung
+- Chunky -> Chunks laden
+- DeluxeMenus -> GUIs selbst gestalten
+- DiscordSRV -> Discord Verbindung
+- Durabilityplus -> Haltbarkeit verwalten
+- EssentialsX -> Viele nützliche Features
+- EssentialsXSpawn -> Spawning verwalten
+- Friends -> Freunde verwalten
+- Graves -> Grabsteine
+- LuckPerms -> Rechte/Ränge
+- MultiverseCore -> Verwaltung für Welten
+- Packetevents -> API für Packetplugins
+- PlaceholderAPI -> Plugin übersetzer
+- Runway -> Minimassage überall verwenden
+- SimpleMsg -> Message Plugin
+- Simplescore -> Scorebord modifizieren
+- TAB -> Ränge in der TAB-Liste anzeigen
+- Typewriter -> Quests und NPC-Textboxen erstellen etc.
+- VaultUnlocked -> API für Rechte und Economy
+- Worldedit -> Einfaches Bauen
+- Worldguard -> Zonenschutz
+
+## End 1
+
+Info: Die erste Farmwelt im End  
+Serverport: 25505  
+Rcon Port: 25605  
+Software: Purpur 1.21.11  
+Arbeitspeicher: 4 GB  
+Servicename: end.service  
+
+### Plugins
+
+- AutoPluginLoader -> Automatisches Plugin Reload
+- BetterTeamGUI -> Grafische Verwaltung von Teams
+- BetterTeams -> Teamverwaltung
+- BetterTPA -> Plugin für Teleportationsverwaltung
+- Chunky -> Chunks laden
+- DeluxeMenus -> GUIs selbst gestalten
+- DiscordSRV -> Discord Verbindung
+- Durabilityplus -> Haltbarkeit verwalten
+- EssentialsX -> Viele nützliche Features
+- EssentialsXSpawn -> Spawning verwalten
+- Friends -> Freunde verwalten
+- Graves -> Grabsteine
+- LuckPerms -> Rechte/Ränge
+- MultiverseCore -> Verwaltung für Welten
+- Packetevents -> API für Packetplugins
+- PlaceholderAPI -> Plugin übersetzer
+- Runway -> Minimassage überall verwenden
+- SimpleMsg -> Message Plugin
+- Simplescore -> Scorebord modifizieren
+- TAB -> Ränge in der TAB-Liste anzeigen
+- Typewriter -> Quests und NPC-Textboxen erstellen etc.
+- VaultUnlocked -> API für Rechte und Economy
+- Worldedit -> Einfaches Bauen
+- Worldguard -> Zonenschutz
