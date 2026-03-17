@@ -23,7 +23,7 @@ Provider: Self
 Typ: Own Built  
 
 CPU: Intel Core i5 13600KF  
-RAM: 64 GB  
+RAM: 32 GB  
 OS: Ubuntu 24.04  
 
 ### Dienste
