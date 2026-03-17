@@ -5,7 +5,7 @@
 Info: Zentrale Verbindungsstelle von allen Purpur Servern  
 Serverport: Extern 25565  
 Software: Velocity 3.4  
-Arbeitspeicher: 2GB  
+Arbeitspeicher: 2 GB  
 Servicename: velocity.service
 
 ### Plugins
@@ -27,7 +27,7 @@ Info: Der erste Zentrale Einstiegspunkt für das Netzwerk
 Serverport: 25500  
 Rcon Port: 25600  
 Software: Purpur 1.21.11  
-Arbeitspeicher: 2GB  
+Arbeitspeicher: 2 GB  
 Servicename: lobby.service  
 
 ### Plugins
@@ -49,7 +49,7 @@ Info: Die erste Welt zum normalen Survival spielen und Ressourcen zu farmen.
 Serverport: 25503  
 Rcon Port: 25603  
 Software: Purpur 1.21.11  
-Arbeitspeicher: 6GB  
+Arbeitspeicher: 6 GB  
 Servicename: farm.service  
 
 ### Plugins
@@ -80,7 +80,7 @@ Info: Der erste Server zum Grundstücke erwerben und bebauen.
 Serverport: 25501  
 Rcon Port: 25601  
 Software: Purpur 1.21.11  
-Arbeitspeicher: 6GB  
+Arbeitspeicher: 6 GB  
 Servicename: cb1.service  
 
 ### Plugins 
@@ -110,7 +110,7 @@ Info: Die erste Farmwelt im Nether
 Serverport: 25504  
 Rcon Port: 25604  
 Software: Purpur 1.21.11  
-Arbeitspeicher: 4GB  
+Arbeitspeicher: 4 GB  
 Servicename: nether.service  
 
 ### Plugins
