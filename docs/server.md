@@ -106,12 +106,12 @@ Servicename: cb1.service
 
 ## Nether 1
 
-Info: Die erste Farmwelt im Nether
+Info: Die erste Farmwelt im Nether  
 Serverport: 25504  
-Rcon Port: 25604
+Rcon Port: 25604  
 Software: Purpur 1.21.11  
 Arbeitspeicher: 4GB  
-Servicename: nether.service
+Servicename: nether.service  
 
 ### Plugins
 
