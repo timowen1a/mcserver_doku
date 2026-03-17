@@ -27,4 +27,6 @@ Backend Server (Heimserver)
 - LuckPerms
 - Auktionshaus
 - Userdaten (Inventory, diverser fortschritt)
+- maintenance
+- skins
 - zukünftige Plugins
