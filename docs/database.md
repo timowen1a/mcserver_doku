@@ -13,6 +13,7 @@ Host: VPS
 - socials
 - skins
 - maintenance
+- Teams
 
 ## Daten(banken) pro Server verwaltet:
 
