@@ -14,6 +14,7 @@ Servicename: velocity.service
 - CarbonChat -> Chat
 - Floodgate -> Bedrock Authentifizierung
 - Geyser -> Bedrock Übersetzer
+- HuskFriends -> Freunde verwalten
 - LuckPerms -> Rechte/Ränge
 - Maintenance -> Wartungsmodus
 - SkinsRestorer -> Ingame Skin wechseln und Skin Bug fixes
@@ -32,7 +33,6 @@ Servicename: lobby.service
 
 ### Plugins
 
-- AutoPluginLoader -> Automatisches Plugin Reload
 - Citizens -> NPCs
 - DecentHolograms -> Custom Hologramme machen
 - LuckPerms -> Rechte/Ränge
@@ -54,7 +54,6 @@ Servicename: cb1.service
 
 ### Plugins 
 
-- AutoPluginLoader -> Automatisches Plugin Reload
 - BetterTeamGUI -> Grafische Verwaltung von Teams
 - BetterTeams -> Teamverwaltung
 - BetterTPA -> Plugin für Teleportationsverwaltung
@@ -64,7 +63,6 @@ Servicename: cb1.service
 - Durabilityplus -> Haltbarkeit verwalten
 - EssentialsX -> Viele nützliche Features
 - EssentialsXSpawn -> Spawning verwalten
-- Friends -> Freunde verwalten
 - LuckPerms -> Rechte/Ränge
 - MultiverseCore -> Verwaltung für Welten
 - Packetevents -> API für Packetplugins
@@ -88,7 +86,6 @@ Servicename: farm.service
 
 ### Plugins
 
-- AutoPluginLoader -> Automatisches Plugin Reload
 - BetterRTP -> Random Teleports
 - BetterTeamGUI -> Grafische Verwaltung von Teams
 - BetterTeams -> Teamverwaltung
@@ -99,7 +96,6 @@ Servicename: farm.service
 - Durabilityplus -> Haltbarkeit verwalten
 - EssentialsX -> Viele nützliche Features
 - EssentialsXSpawn -> Spawning verwalten
-- Friends -> Freunde verwalten
 - Graves -> Grabsteine
 - LuckPerms -> Rechte/Ränge
 - Packetevents -> API für Packetplugins
@@ -122,7 +118,6 @@ Servicename: nether.service
 
 ### Plugins
 
-- AutoPluginLoader -> Automatisches Plugin Reload
 - BetterTeamGUI -> Grafische Verwaltung von Teams
 - BetterTeams -> Teamverwaltung
 - BetterTPA -> Plugin für Teleportationsverwaltung
@@ -132,7 +127,6 @@ Servicename: nether.service
 - Durabilityplus -> Haltbarkeit verwalten
 - EssentialsX -> Viele nützliche Features
 - EssentialsXSpawn -> Spawning verwalten
-- Friends -> Freunde verwalten
 - Graves -> Grabsteine
 - LuckPerms -> Rechte/Ränge
 - MultiverseCore -> Verwaltung für Welten
@@ -158,7 +152,6 @@ Servicename: end.service
 
 ### Plugins
 
-- AutoPluginLoader -> Automatisches Plugin Reload
 - BetterTeamGUI -> Grafische Verwaltung von Teams
 - BetterTeams -> Teamverwaltung
 - BetterTPA -> Plugin für Teleportationsverwaltung
@@ -168,7 +161,6 @@ Servicename: end.service
 - Durabilityplus -> Haltbarkeit verwalten
 - EssentialsX -> Viele nützliche Features
 - EssentialsXSpawn -> Spawning verwalten
-- Friends -> Freunde verwalten
 - Graves -> Grabsteine
 - LuckPerms -> Rechte/Ränge
 - MultiverseCore -> Verwaltung für Welten
